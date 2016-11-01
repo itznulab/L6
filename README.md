@@ -1,2 +1,2 @@
-# lab 6, Vorobiev K
+# lab 6, Vorobiev Konstantin
 
