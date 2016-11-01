@@ -1,6 +1,6 @@
 {
-    "name": "amk/web-labs",
-    "description": "amk",
+    "name": "KNV/web-labs",
+    "description": "KNV",
     "require": {
         "twig/twig": "^1.26"
     },
@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "AMKWebLab\\": "amkcore/" 
+            "KNVWebLab\\": "KNVcore/" 
         }
     }    
 }

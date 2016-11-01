@@ -1,2 +1,2 @@
-# lab 6, Maksiuta A.V.
-Nuff said... Celestia akbar!
+# lab 6, Vorobiev K
+
