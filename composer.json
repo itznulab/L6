@@ -1,0 +1,18 @@
+{
+    "name": "amk/web-labs",
+    "description": "amk",
+    "require": {
+        "twig/twig": "^1.26"
+    },
+    "authors": [
+        {
+            "name": "Konstantin",
+            "email": "vorobev_sk@mail.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AMKWebLab\\": "amkcore/" 
+        }
+    }    
+}
